@@ -18,7 +18,7 @@
 - 🌱 I’m currently learning **Web Development, Data Structures & Algorithms**
 - 💡 Interested in **AI, Machine Learning, and Open Source Contributions**
 - 💬 Ask me about **C, C++, Python, HTML, CSS, JavaScript**
-- 📫 How to reach me: **your.email@example.com**
+- 📫 How to reach me: **25cs093@charusat.edu.in**
 - ⚡ Fun fact: I love solving problems and creating cool projects!
 
 ---
